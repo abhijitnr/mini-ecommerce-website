@@ -1,0 +1,46 @@
+.single_product_page {
+    width: 50%;
+    margin: auto;
+    margin-top: 130px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+.single_item {
+    display: flex;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.item_image {
+    width: 300px;
+    height: auto;
+}
+
+.product_details {
+    margin-left: 60px;
+    padding: 1rem;
+}
+
+.add_to_card {
+    background-color: rgb(230, 182, 93);
+    width: 200px;
+    height: 40px;
+    border: 1px solid grey;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.back_to_products {
+    border: 1px solid grey;
+    background-color: azure;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 40px;
+}

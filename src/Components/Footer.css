@@ -1,0 +1,38 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+
+.font_change {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.faq_section {
+    width: 40%;
+}
+
+.faq_section > h2 {
+    margin-left: 5%;
+    margin-bottom: -40px;
+}
+
+p span {
+    font-size: 20px;
+    margin-left: 3%;
+}
+
+
+p :hover {
+    cursor: pointer;
+}
+
+p span :hover {
+    cursor: pointer;
+}
+
+.social_icon {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

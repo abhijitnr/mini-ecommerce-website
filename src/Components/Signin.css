@@ -1,0 +1,15 @@
+.sigin_parent {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.login_logout {
+    border: 1px solid grey;
+    background-color: azure;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 40px;
+}

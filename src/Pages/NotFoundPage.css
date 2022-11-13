@@ -1,0 +1,31 @@
+.not_found_page {
+    margin-top: 100px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.not_found_page > img{
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+}
+
+.not_found_page > h1 {
+    color: red;   
+}
+
+.not_found_page > h3 {
+    color: navy;
+}
+
+.back_to_home {
+    border: 1px solid grey;
+    background-color: azure;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+}
